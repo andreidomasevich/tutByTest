@@ -1,0 +1,7 @@
+#surefire_0
+#Fri Oct 02 12:55:23 MSK 2020
+basedir=C\:\\Users\\adomasevich\\Desktop\\tutByTest
+allure.results.directory=C\:\\Users\\adomasevich\\Desktop\\tutByTest\\target/allure-results
+user.dir=C\:\\Users\\adomasevich\\Desktop\\tutByTest
+idea.version2020.1.1=true
+localRepository=C\:\\Users\\adomasevich\\.m2\\repository
